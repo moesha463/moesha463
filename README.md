@@ -9,12 +9,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/moesha463/github-profile-trophy">
+  <a href="https://github.com/moesha463">
     <img src="https://github-profile-trophy.vercel.app/?username=moesha463&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/moesha463">
     <img src="https://streak-stats.demolab.com?user=moesha463&theme=tokyonight&hide_border=true" />
   </a>
 </p>
