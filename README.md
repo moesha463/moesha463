@@ -21,8 +21,4 @@
     <img src="https://streak-stats.demolab.com?user=moesha463&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesha463&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=moesha463&show_icons=true&theme=tokyonight" />
-</p>
 
