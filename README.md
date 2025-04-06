@@ -3,10 +3,10 @@
 I'm a developer from Belarus, working on projects of various complexity—from **simple one-page websites** to **encryption programs in C#** and **games in Python**.  
 
 📌 **My Skills**:  
-- 🔹 **Web Development** (HTML, CSS, JavaScript)  
-- 🔹 **Backend Development** (Python, C#)  
-- 🔹 **Encryption & Data Security**  
-- 🔹 **Game Development**  
+-  **Web Development** (HTML, CSS, JavaScript)  
+-  **Backend Development** (Python, C#)  
+-  **Encryption & Data Security**  
+-  **Game Development**  
 
 💡 I'm constantly learning new technologies and striving to create high-quality, innovative products.  
 
