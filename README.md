@@ -9,12 +9,12 @@
 
 <p align="center">
   <a href="https://www.codewars.com/users/moesha463">
-    <img src="https://www.codewars.com/users/moesha463/badges/large" width="300" />
+    <img src="https://www.codewars.com/users/moesha463/badges/large"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/moesha463">
-    <img src="https://github-profile-trophy.vercel.app/?username=moesha463&theme=tokyonight" width="300" />
+    <img src="https://github-profile-trophy.vercel.app/?username=moesha463&theme=tokyonight"/>
   </a>
 </p>
