@@ -11,14 +11,14 @@ I'm a developer from Belarus, working on projects of various complexity—from *
 💡 I'm constantly learning new technologies and striving to create high-quality, innovative products.  
 
 📊 **GitHub Stats**:  
-<p align="center">
+<p align="left">
   <a href="https://github.com/moesha463">
-    <img src="https://github-readme-stats.vercel.app/api?username=moesha463&show_icons=true&theme=tokyonight" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api?username=moesha463&show_icons=true&theme=tokyonight" />
   </a>
 </p>
 
 🏆 **Achievements**:  
-<p align="center">
+<p align="left">
   <a href="https://github.com/moesha463">
     <img src="https://github-profile-trophy.vercel.app/?username=moesha463&theme=tokyonight"/>
   </a>
