@@ -25,7 +25,7 @@ I'm a developer from Belarus, working on projects of various complexity—from *
 </p>
 
 🔗 **Follow me on GitHub to stay updated on my latest projects and developments!**  
-<p align="center">
+<p align="left">
   <a href="https://github.com/moesha463">
     <img src="https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
